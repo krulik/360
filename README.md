@@ -22,7 +22,7 @@ A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and
 
 ## Deploy
 
-- `npm deploy` will take your `dist` and push it to your repo's `gh-pages` branch (git-directory-deploy)
+- `npm gh-deploy` will take your `dist` and push it to your repo's `gh-pages` branch (git-directory-deploy)
 - It will only take update files
 - `username.github.io/repo` and `YOUR_DOMAIN` are magically updated
 
