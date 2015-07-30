@@ -38,7 +38,7 @@ A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and
 
 - [Start a Blog with Harp](http://kennethormandy.com/journal/start-a-blog-with-harp)
 - [Harp, Gulp and BrowserSync](http://charliegleason.com/articles/harp-gulp-and-browsersync)
-- [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+- [How to Use npm as a Build Tool (AMAZING)](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Task Automation with npm run](http://substack.net/task_automation_with_npm_run)
 
 To the creators of these tools, articles and all the people sharing their knowledge - I want to say thank you!
