@@ -1,9 +1,9 @@
 {
-  "name": "serge",
+  "name": "static-boilerplate",
   "version": "0.1.1",
-  "description": "My online presence",
+  "description": "A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and deploy to Github Pages.",
   "config": {
-    "domain": "serge.krul.co.il",
+    "domain": "YOUR_DOMAIN",
     "port": 9000,
     "src": "src",
     "dist": "dist",
@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/krulik/serge.git"
+    "url": "https://github.com/krulik/static-boilerplate.git"
   },
   "author": "Serge Krul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krulik/serge/issues"
+    "url": "https://github.com/krulik/static-boilerplate/issues"
   },
-  "homepage": "https://github.com/krulik/serge",
+  "homepage": "https://github.com/krulik/static-boilerplate",
   "devDependencies": {
     "browser-sync": "^2.8.1",
     "harp": "^0.17.0"
