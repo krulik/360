@@ -28,7 +28,7 @@ A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and
 
 ## Versioning
 
-- You can do semantic versioning with npm (see reference)
+- You can do semantic versioning with npm (see [reference](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/))
 - `npm version patch`, `npm version minor`, `npm version major`
 - It will also make a `git commit` for you
 
