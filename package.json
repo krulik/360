@@ -1,9 +1,9 @@
 {
   "name": "serge",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My online presence",
   "config": {
-  	"domain": "serge.krul.co.il",
+    "domain": "serge.krul.co.il",
     "port": 9000,
     "src": "src",
     "dist": "dist",
