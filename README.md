@@ -34,6 +34,13 @@ A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and
 
 ***
 
+## TODO
+
+- Add some more `config` options
+- Create a Yeoman Generator for this
+
+***
+
 ## Tools
 
 - [HarpJS](http://harpjs.com/)
