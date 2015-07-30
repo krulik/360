@@ -41,6 +41,11 @@ A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and
 
 ***
 
+## Dependencies
+
+- NodeJS
+- bash/zsh/fish
+
 ## Tools
 
 - [HarpJS](http://harpjs.com/)
