@@ -14,7 +14,7 @@
 		"clean:dist": "npm run clean $npm_package_config_dist",
 		"deploy": "",
 		"build": "npm run clean:dist & harp compile $npm_package_config_src $npm_package_config_dist",
-		"harp": "node scripts/harp.js $npm_package_config_src $npm_package_config_port",
+		"harp": "harp server $npm_package_config_src --port $npm_package_config_port",
 		"livereload": "browser-sync start --proxy 'localhost:'$npm_package_config_port --files $npm_package_config_src'/*.jade, '$npm_package_config_src'/*.scss, '$npm_package_config_src'/*.md' --no-notify",
 		"start": "npm run harp & npm run livereload"
 	},
