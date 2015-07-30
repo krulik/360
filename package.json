@@ -1,5 +1,5 @@
 {
-  "name": "static-boilerplate",
+  "name": "harp-boilerplate",
   "version": "0.1.2",
   "description": "A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and deploy to Github Pages.",
   "config": {
