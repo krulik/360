@@ -1,4 +1,4 @@
-# Static Boilerplate
+# Harp Boilerplate
 
 A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and deploy to Github Pages.
 
