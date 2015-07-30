@@ -13,7 +13,7 @@ A minimal, clean and simple boilerplate based on Harp, npm as a task runner, and
 ## Run
 
 - `npm start` will open a browser on `http://localhost:3000` (BrowserSync)
-- All your `.jade, .scss, md` files are being watched and magically served (Harp + BrowserSync)
+- All your `.jade, .scss, .md` files are being watched and magically served (Harp + BrowserSync)
 
 ## Build
 
