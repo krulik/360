@@ -3,21 +3,25 @@
   "version": "0.0.0",
   "description": "My online presence",
   "config": {
+  	"domain": "serge.krul.co.il",
     "port": 9000,
-    "src": "./src",
-    "dist": "./dist"
+    "src": "src",
+    "dist": "dist",
+    "deploy_script": "scripts/deploy.sh"
   },
   "scripts": {
     "env": "env",
     "echo": "echo",
     "clean": "rm -rf",
     "clean:dist": "npm run clean $npm_package_config_dist",
-    "deploy": "",
-    "build": "npm run clean:dist & harp compile $npm_package_config_src $npm_package_config_dist",
-    "deploy": "gh-pages-deploy",
+    "deploy:first": "chmod +x $npm_package_config_deploy_script && $npm_package_config_deploy_script -s",
+    "deploy": "$npm_package_config_deploy_script",
+    "cname": "echo $npm_package_config_domain > $npm_package_config_dist/CNAME",
+    "compile": "harp compile $npm_package_config_src $npm_package_config_dist",
     "harp": "harp server $npm_package_config_src --port $npm_package_config_port",
     "livereload": "browser-sync start --proxy 'localhost:'$npm_package_config_port --files $npm_package_config_src'/*.jade, '$npm_package_config_src'/*.scss, '$npm_package_config_src'/*.md' --no-notify",
-    "start": "npm run harp & npm run livereload"
+    "build": "npm run clean:dist && npm run compile && npm run cname",
+    "start": "npm run harp && npm run livereload"
   },
   "repository": {
     "type": "git",
@@ -31,7 +35,6 @@
   "homepage": "https://github.com/krulik/serge",
   "devDependencies": {
     "browser-sync": "^2.8.1",
-    "gh-pages-deploy": "^0.3.0",
     "harp": "^0.17.0"
   }
 }
