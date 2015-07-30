@@ -5,7 +5,7 @@
 
 ***
 
-## Contact me on
+## Say hi
 
 - [LinkedIn](http://il.linkedin.com/in/sergekrul)
 - [Github](https://github.com/krulik)
