@@ -1,35 +1,37 @@
 {
-	"name": "serge",
-	"version": "0.0.0",
-	"description": "My online presence",
-	"config": {
-		"port": 9000,
-		"src": "./src",
-		"dist": "./dist"
-	},
-	"scripts": {
-		"env": "env",
-		"echo": "echo",
-		"clean": "rm -rf",
-		"clean:dist": "npm run clean $npm_package_config_dist",
-		"deploy": "",
-		"build": "npm run clean:dist & harp compile $npm_package_config_src $npm_package_config_dist",
-		"harp": "harp server $npm_package_config_src --port $npm_package_config_port",
-		"livereload": "browser-sync start --proxy 'localhost:'$npm_package_config_port --files $npm_package_config_src'/*.jade, '$npm_package_config_src'/*.scss, '$npm_package_config_src'/*.md' --no-notify",
-		"start": "npm run harp & npm run livereload"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/krulik/serge.git"
-	},
-	"author": "Serge Krul",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/krulik/serge/issues"
-	},
-	"homepage": "https://github.com/krulik/serge",
-	"devDependencies": {
-		"browser-sync": "^2.8.1",
-		"harp": "^0.17.0"
-	}
+  "name": "serge",
+  "version": "0.0.0",
+  "description": "My online presence",
+  "config": {
+    "port": 9000,
+    "src": "./src",
+    "dist": "./dist"
+  },
+  "scripts": {
+    "env": "env",
+    "echo": "echo",
+    "clean": "rm -rf",
+    "clean:dist": "npm run clean $npm_package_config_dist",
+    "deploy": "",
+    "build": "npm run clean:dist & harp compile $npm_package_config_src $npm_package_config_dist",
+    "deploy": "gh-pages-deploy",
+    "harp": "harp server $npm_package_config_src --port $npm_package_config_port",
+    "livereload": "browser-sync start --proxy 'localhost:'$npm_package_config_port --files $npm_package_config_src'/*.jade, '$npm_package_config_src'/*.scss, '$npm_package_config_src'/*.md' --no-notify",
+    "start": "npm run harp & npm run livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krulik/serge.git"
+  },
+  "author": "Serge Krul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krulik/serge/issues"
+  },
+  "homepage": "https://github.com/krulik/serge",
+  "devDependencies": {
+    "browser-sync": "^2.8.1",
+    "gh-pages-deploy": "^0.3.0",
+    "harp": "^0.17.0"
+  }
 }
