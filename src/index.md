@@ -114,4 +114,5 @@ Description, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu
 		<li><a href="">Moris @ 360&deg;</a></li>
 		<li><a href="">Serge @ 360&deg;</a></li>
 	</ul>
+	<p>Currently <b>considering new projects</b> for Q3-4, 2015</p>
 </div>
