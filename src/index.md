@@ -2,13 +2,20 @@
 ## Hello, We Are Moris & Serge
 ### We provide a unique blend of experience, creativity and humanity to realize your digital product while staying sane and happy.
 
+***
+
+<p>Currently <b>considering new projects</b> for Q3-4, 2015</p>
+<a class="Button" href="#contact">Hire Us!</a>
+
+***
+
 #### We work from one of the most beautiful places in the world: Hararit, Israel. [Come visit](#contact).
 
 <div class="Photo u-ir">Hararit</div>
 
 ***
 
-#### Moris
+#### Moris Oz
 ![Moris](img/moris.jpg)
 
 A Multi-Disciplinary Software Engineer with over 16 years of hands-on experience in technology ranging from low-level TCP/IP through Computer Graphics (2D/3D) to Web Back-end development.
@@ -17,7 +24,7 @@ A Multi-Disciplinary Software Engineer with over 16 years of hands-on experience
 
 *Moris is also a psychotherapist, a happy husband and father, and more recently an organic farming hobbyist.*
 
-#### Serge
+#### Serge Krul
 ![Serge](img/serge.jpeg)
 
 A UX/Front-end Engineer, tech-leader, trainer and speaker with over 8 years of experience. Serving as VP R&D for one of Israel's most prominent UX agencies: [Netcraft](http://netcraft.co.il/), and as an Education Director for [Netcraft Academy](http://netcraftacademy.co.il).
@@ -32,15 +39,17 @@ A UX/Front-end Engineer, tech-leader, trainer and speaker with over 8 years of e
 
 ***
 
-## Services
+## We Do
 
-- Development of complex and challenging Web & Mobile Sites and Applications
-- Consulting, architecture and project management
-- Training and team building
+- Development of large-scale Web/Mobile Sites and Applications
+- UX, Design and Branding
+- Consulting and Training
+
+[More]()
 
 ***
 
-## Clients
+## Our Clients
 
 - Cisco
 - SanDisk
@@ -50,41 +59,11 @@ A UX/Front-end Engineer, tech-leader, trainer and speaker with over 8 years of e
 - Amdocs
 - Applied Materials
 
-***
-
-## Case Studies
-
-### Project Name, *Client Name*
-
-[Screenshot]
-
-Description, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-[More]()
-
-### Project Name, *Client Name*
-
-[Screenshot]
-
-Description, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-[More]()
-
-### Project Name, *Client Name*
-
-[Screenshot]
-
-Description, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-[More]()
+[Projects & Case Studies]()
 
 ***
 
-<a class="Button" href="#contact">Hire Us!</a>
-
-***
-
-## People We've Worked With Say
+## People Who've Worked With Us Say
 
 ### Igal Mariasin, *ASIC Verification Team Leader at SanDisk*
 <img class="Testimonial-photo" src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/3/000/092/047/325e9de.jpg" alt="">
