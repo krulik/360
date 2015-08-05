@@ -7,4 +7,4 @@ In the meanwhile, please drop us a note:
 - [Moris @ 360&deg;](mailto:moris.oz@gmail.com)
 - [Serge @ 360&deg;](mailto:sergekrul@gmail.com)
 
-[Back to home base](/../)
+[Back to home base](/360)
