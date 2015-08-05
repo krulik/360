@@ -21,7 +21,9 @@
     "harp": "harp server $npm_package_config_src --port $npm_package_config_port",
     "livereload": "browser-sync start --proxy 'localhost:'$npm_package_config_port --files $npm_package_config_src'/*.jade, '$npm_package_config_src'/*.scss, '$npm_package_config_src'/*.md' --no-notify",
     "build": "npm run clean:dist && npm run compile && npm run cname",
-    "start": "npm run harp & npm run livereload"
+    "start": "npm run harp & npm run livereload",
+    "git-content": "git commit -a -m 'content' && git push origin master",
+    "updated-site": "npm run git-content && npm run build && npm run gh-deploy"
   },
   "repository": {
     "type": "git",
