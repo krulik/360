@@ -4,7 +4,7 @@
 
 ***
 
-<p>Currently <b>considering new projects</b> for Q3-4, 2015</p>
+<p>Currently <b>considering new projects</b> for Q4, 2015</p>
 <a class="Button" href="#contact">Hire Us!</a>
 
 ***
@@ -45,7 +45,11 @@ A UX/Front-end Engineer, tech-leader, trainer and speaker with over 8 years of e
 - UX, Design and Branding
 - Consulting and Training
 
-[More]()
+We provide full support, PM and supervision in all projects.
+
+In cases where reinforcement is needed we collaborate with wonderful, cherry-picked people whom we trust.
+
+[More](soon)
 
 ***
 
@@ -59,7 +63,7 @@ A UX/Front-end Engineer, tech-leader, trainer and speaker with over 8 years of e
 - Amdocs
 - Applied Materials
 
-[Projects & Case Studies]()
+[Projects & Case Studies](soon)
 
 ***
 
@@ -90,8 +94,8 @@ A UX/Front-end Engineer, tech-leader, trainer and speaker with over 8 years of e
 <div id="contact" class="u-highlight">
 	<h2>We'd Love to Hear from You!</h2>
 	<ul>
-		<li><a href="">Moris @ 360&deg;</a></li>
-		<li><a href="">Serge @ 360&deg;</a></li>
+		<li><a href="mailto:moris.oz@gmail.com">Moris @ 360&deg;</a></li>
+		<li><a href="mailto:sergekrul@gmail.com">Serge @ 360&deg;</a></li>
 	</ul>
-	<p>Currently <b>considering new projects</b> for Q3-4, 2015</p>
+	<p>Currently <b>considering new projects</b> for Q4, 2015</p>
 </div>
