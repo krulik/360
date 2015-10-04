@@ -1,4 +1,4 @@
-# 360&deg; - Web Development From a Bird's View
+# Jolly Bird - Web Development From a (Jolly) Bird's View
 ## Hello, We Are Moris & Serge
 ### We provide a unique blend of experience, creativity and humanity to realize your digital product while staying sane and happy.
 
