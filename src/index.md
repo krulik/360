@@ -94,8 +94,8 @@ In cases where reinforcement is needed we collaborate with wonderful, cherry-pic
 <div id="contact" class="u-highlight">
 	<h2>We'd Love to Hear from You!</h2>
 	<ul>
-		<li><a href="mailto:moris.oz@gmail.com">Moris @ 360&deg;</a></li>
-		<li><a href="mailto:sergekrul@gmail.com">Serge @ 360&deg;</a></li>
+		<li><a href="mailto:moris.oz@gmail.com">Moris @ Jolly Bird</a></li>
+		<li><a href="mailto:sergekrul@gmail.com">Serge @ Jolly Bird</a></li>
 	</ul>
 	<p>Currently <b>considering new projects</b> for Q4, 2015</p>
 </div>

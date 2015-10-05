@@ -4,9 +4,9 @@ We're still working on our site.
 
 In the meanwhile, please drop us a note:
 
-- [Moris @ 360&deg;](mailto:moris.oz@gmail.com)
-- [Serge @ 360&deg;](mailto:sergekrul@gmail.com)
+- [Moris @ Jolly Bird](mailto:moris.oz@gmail.com)
+- [Serge @ Jolly Bird](mailto:sergekrul@gmail.com)
 
 ***
 
-[Back to home base](/360)
+[Back to home base](./)
